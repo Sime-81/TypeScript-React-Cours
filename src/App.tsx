@@ -23,7 +23,7 @@ const App = () => {
 
   return (
     <div>
-      <h2>Poster ub message</h2>
+      <h2>Poster un message</h2>
       <form onSubmit={(e) => handleSubmit(e)}>
         <input
           type="text"
